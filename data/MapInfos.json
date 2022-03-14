@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":true,"name":"OutsideHouse","order":1,"parentId":0,"scrollX":1638,"scrollY":922},
+{"id":2,"expanded":true,"name":"InsideHouse","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"Dungeon","order":5,"parentId":7,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":4,"expanded":true,"name":"Pub Outside","order":3,"parentId":2,"scrollX":1638,"scrollY":922},
+{"id":5,"expanded":false,"name":"Slime Basment","order":6,"parentId":3,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":6,"expanded":true,"name":"PUB Inside","order":8,"parentId":4,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":7,"expanded":true,"name":"Trail","order":4,"parentId":4,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":8,"expanded":true,"name":"Mountains","order":10,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":9,"expanded":true,"name":"Cave","order":11,"parentId":8,"scrollX":1318.6666666666667,"scrollY":1478.6666666666667},
+{"id":10,"expanded":true,"name":"Debug Room","order":16,"parentId":14,"scrollX":1638,"scrollY":922},
+{"id":11,"expanded":false,"name":"Boss Room","order":7,"parentId":3,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":12,"expanded":true,"name":"ATown","order":12,"parentId":0,"scrollX":864,"scrollY":708},
+{"id":13,"expanded":false,"name":"Forest Pass ","order":9,"parentId":2,"scrollX":1318.6666666666667,"scrollY":836},
+{"id":14,"expanded":true,"name":"INIT","order":15,"parentId":17,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":15,"expanded":false,"name":"TGuild","order":18,"parentId":12,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":16,"expanded":false,"name":"Inn","order":13,"parentId":12,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":17,"expanded":true,"name":"Weapons","order":14,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":18,"expanded":false,"name":"Jail","order":17,"parentId":12,"scrollX":1092,"scrollY":614.6666666666666}
+]
