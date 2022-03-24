@@ -31,13 +31,35 @@
 }
 
 
-
+h1 {
+ text-align: center;
+ font-size: 40px
+}
+h2 {
+ text-align: center;
+}
+p {
+ text-align: center;
+}
 
   a {
 color: #FFE5B4
 
   }
 
+.gameImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.ILJ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
 
 @media screen and (max-width: 500px) {
   #openMenu {
@@ -109,8 +131,8 @@ float: center;
   margin: 6px
 }
 .segment .rightimg{
-  margin-right: 10px
-float: none;
+  margin-right: 10px;
+ float: none;
 }
 p{
 margin-top: 0px
@@ -137,4 +159,9 @@ background-color: #000000
   background: #6A92AE
 }
 
+a{
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+body {background-color: lightgray;}
   }
